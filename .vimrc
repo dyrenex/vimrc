@@ -7,6 +7,10 @@ set shiftwidth=4
 " " On pressing tab, insert 4 spaces
 set expandtab
 
+set number
+
+set backspace=indent,eol,start
+
 
 " Don't try to be 'vi'
 set nocompatible
